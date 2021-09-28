@@ -1,2 +1,3 @@
 # hello-world
-my name is subhan shoukat
+hello humans
+my name is subhan shoukat and i like many fruits 
